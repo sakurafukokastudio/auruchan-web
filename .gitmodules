@@ -1,0 +1,3 @@
+[submodule "auruchan-assets"]
+	path = auruchan-assets
+	url = https://github.com/auruchan-development/auruchan-assets
