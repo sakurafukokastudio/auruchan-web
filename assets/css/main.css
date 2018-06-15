@@ -1684,7 +1684,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			color: #ffffff !important;
 		}
 
 		a:active {
@@ -3407,7 +3407,7 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner-600k.png");
+		background-image: url("../../auruchan-assets/depan-banner.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
